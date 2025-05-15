@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about technology, always curious to
 ## 👀 Interests
 - Software development
 - Open source contributions
-- Web and mobile app development
+- Web applications development
 - Robotics Process Automation
 
 ## 🌱 Currently Learning
@@ -23,7 +23,7 @@ I'm open to collaborating on:
 
 
 ## 😄 Pronouns
-Pavan Kumar(pk)
+Pavan Kumar(pr)
 
 ## ⚡ Fun Fact
 I love solving complex problems and turning ideas into working code — and I believe good coffee helps fuel great code!
